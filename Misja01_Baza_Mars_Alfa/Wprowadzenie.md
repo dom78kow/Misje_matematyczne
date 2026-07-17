@@ -8,7 +8,10 @@ Zostałeś wybrany do udziału w pierwszej szkolnej misji badawczej na Marsa.
 
 Twoim zadaniem będzie wspieranie załogi podczas uruchamiania **Bazy Mars Alfa**. W trakcie misji będziesz analizować dokumenty, wykonywać obliczenia oraz podejmować decyzje, od których zależy powodzenie całej ekspedycji.
 
-Przed rozpoczęciem pracy przeczytaj **Scenariusz Misji 01**, a następnie postępuj zgodnie z kolejnymi rozdziałami.
+Materiały Misji 01 znajdują się w katalogu `Misja01_Baza_Mars_Alfa`.
+Przed rozpoczęciem pracy przeczytaj **Scenariusz Misji 01.md**, a następnie
+postępuj zgodnie z kolejnymi rozdziałami. Dokumenty potrzebne do wykonania
+zadań znajdziesz w katalogu `documents`.
 
 ---
 
@@ -52,6 +55,6 @@ Jeżeli wszystkie zadania zostaną wykonane poprawnie, **Baza Mars Alfa** będzi
 
 # Gotowy?
 
-Otwórz pierwszy rozdział i rozpocznij swoją misję.
+Otwórz `Scenariusz Misji 01.md` i rozpocznij swoją misję.
 
 Powodzenia, Dowódco!
