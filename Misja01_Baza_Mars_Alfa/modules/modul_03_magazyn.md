@@ -11,3 +11,4 @@ Sprzęt nadal znajduje się w kontenerach. Czas przygotować magazyn.
 1.  Oblicz pole podłogi.
 2.  Oblicz objętość.
 3.  Czy magazyn pomieści sprzęt?
+4.  Zaproponuj jedno usprawnienie projektu.

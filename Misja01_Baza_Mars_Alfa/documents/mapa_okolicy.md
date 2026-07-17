@@ -1,5 +1,10 @@
 # M01-D05 Mapa okolicy
 
-Skala 1:10000
+Skala 1:100000
 
-Baza Mars Alfa Wulkan Argo -- 12 km Miejsce odwiertu -- 1,2 km
+Wulkan Argo i miejsce odwiertu leżą na wschód od Bazy Mars Alfa,
+na tej samej trasie.
+
+```text
+Baza Mars Alfa ── 1,2 cm ── Miejsce odwiertu ── 10,8 cm ── Wulkan Argo
+```

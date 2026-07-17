@@ -8,6 +8,7 @@ Przed budową kolejnych modułów należy zatwierdzić plan bazy.
 
 ## Zadania
 
-1.  Oblicz odległość na planie.
-2.  Który obiekt jest najbliżej magazynu?
+1.  Odczytaj odległości ze skali.
+2.  Oceń, czy obecne miejsce dla magazynu jest dobre.
 3.  Uzasadnij rozmieszczenie paneli.
+4.  Wyznacz najkrótszą trasę transportu z lądowiska do paneli.

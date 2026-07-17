@@ -12,4 +12,5 @@ będzie miała wystarczająco energii.
 1.  Oblicz produkcję energii.
 2.  Oblicz zużycie.
 3.  Czy energii wystarczy?
-4.  Jeżeli nie -- wskaż urządzenia do wyłączenia.
+4.  Zdecyduj, które urządzenia uruchomisz.
+5.  Uzasadnij wybór.

@@ -125,9 +125,9 @@ Pozostało zatwierdzić rozmieszczenie obiektów.
 ## Zadania
 
 1.  Odczytaj odległości ze skali.
-2.  Wybierz najlepsze miejsce dla magazynu.
+2.  Oceń, czy obecne miejsce dla magazynu jest dobre.
 3.  Uzasadnij rozmieszczenie paneli słonecznych.
-4.  Wyznacz najkrótszą trasę transportu.
+4.  Wyznacz najkrótszą trasę transportu z lądowiska do paneli.
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,8 @@ Podczas pierwszego odwiertu czujniki rejestrują powtarzalny sygnał.
 
 Technicy nie potrafią wyjaśnić jego pochodzenia.
 
-**Przeczytaj dokument M01-D06 -- Raport z odwiertu.**
+**Przeczytaj dokumenty M01-D05 -- Mapa okolicy i M01-D06 -- Raport z
+odwiertu.**
 
 ## Zadania
 

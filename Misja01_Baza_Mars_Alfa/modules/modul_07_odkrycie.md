@@ -4,7 +4,7 @@
 
 Podczas odwiertu czujniki rejestrują tajemniczy sygnał.
 
-**Wykorzystaj dokument:** M01-D06
+**Wykorzystaj dokumenty:** M01-D05 i M01-D06
 
 ## Zadania
 
