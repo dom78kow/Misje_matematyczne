@@ -60,7 +60,7 @@ Suggestions are allowed, but existing tasks should remain unchanged.
 
 When generating new exercises:
 
-- maintain the same difficulty level
+- increase the difficulty level gradually in successive missions
 - keep language suitable for the target age
 - avoid ambiguity
 - provide clear instructions

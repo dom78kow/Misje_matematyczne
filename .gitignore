@@ -1,0 +1,17 @@
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ustawienia edytorów i pliki tymczasowe
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.log
+
+# Tymczasowo: Misja 02 jest w trakcie przygotowania
+/Misja02_Wyprawa_do_wnetrza_wulkanu/
